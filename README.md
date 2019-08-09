@@ -13,3 +13,9 @@ HSK 3: 600 words (+300)
 HSK 4: 1200 words (+600)
 HSK 5: 2500 words (+1300)
 HSK 6: >5000 words (+2500)
+
+When used as a suffix, 儿 takes the tone of the previous character and does not have its own syllable. For example, 这儿 (zhè- this) is not “zhè er,” but rather one syllable “zhèr.” Remember, when it is referring to the actual noun “Son” (e.g., 儿子 ér zi) then it is 2nd tone, but in that case, it is not an Affix. Many times, adding the “儿” is merely a dialectical suffix and does not change the meaning of the word, but sometimes it will change the meaning, the following are some examples:
+这- zhè This | 那- nà That | 火- huǒ Fire
+这儿- zhèr Here | 那儿- nàr There | 火儿- huǒr To be angry
+
+source: https://www.mandarinblueprint.com/2019/03/15/chinese-prefixes/
