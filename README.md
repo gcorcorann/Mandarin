@@ -20,6 +20,7 @@ When used as a suffix, 儿 takes the tone of the previous character and does not
 
 source: https://www.mandarinblueprint.com/2019/03/15/chinese-prefixes/
 
+
 Permission:
 
 The first meaning of "can" is "permission" - Can I use your pen? This "can" in Mandarin is 可以 kěyǐ:
@@ -47,7 +48,9 @@ We can also use 可以 kěyǐ to suggest an alternative idea, as in:
     你也可以写这个字｡
 
 We can also use 可以 kěyǐ (or 不可以 bù kě yǐ) in answer to a question using 能 néng – our next translation of can.
-Ability
+
+
+Ability:
 
 The English word can can also mean "ability" – I'm not busy today, so I can come over. This meaning of can is translated with the Mandarin 能 néng.
 
@@ -63,7 +66,9 @@ There is a bit of overlap between 能 néng and 可以 kěyǐ, as in a sentence 
     我能不能用你的笔?
 
 As we have already seen, the sentence above could be said with kě bù kěyǐ instead of néng bu néng.
-Skill
+
+
+Skill:
 
 The final meaning of can is "skill" - I can speak French. To express this idea in Mandarin, use 會/会 huì.
 
